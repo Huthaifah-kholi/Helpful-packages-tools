@@ -35,3 +35,7 @@ https://github.com/spatie/laravel-schemaless-attributes
 https://github.com/kirschbaum-development/eloquent-power-joins
 
 https://laraveldaily.com/post/20-best-laravel-eloquent-packages
+
+Cascade delete but on soft-delete: 
+
+https://github.com/shiftonelabs/laravel-cascade-deletes
