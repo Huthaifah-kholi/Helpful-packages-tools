@@ -38,13 +38,13 @@ https://github.com/kirschbaum-development/eloquent-power-joins
 
 https://laraveldaily.com/post/20-best-laravel-eloquent-packages
 
-######Cascade delete but on soft-delete: 
+###### Cascade delete but on soft-delete: 
 
 https://github.com/shiftonelabs/laravel-cascade-deletes
 
 https://github.com/webpatser/laravel-uuid
 
-######Enum:
+###### Enum:
 
 https://github.com/BenSampo/laravel-enum
 
