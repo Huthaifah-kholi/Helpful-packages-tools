@@ -58,3 +58,6 @@ https://github.com/rinvex/laravel-attributes  -- prefered
 
 https://github.com/spatie/laravel-schemaless-attributes
 
+###### trees in relational databases:
+
+https://github.com/lazychaser/laravel-nestedset
