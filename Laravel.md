@@ -51,3 +51,10 @@ https://github.com/BenSampo/laravel-enum
 https://github.com/spatie/laravel-enum
 
 https://github.com/mad-web/laravel-enum
+
+###### Attributes:
+
+https://github.com/rinvex/laravel-attributes  -- prefered
+
+https://github.com/spatie/laravel-schemaless-attributes
+
