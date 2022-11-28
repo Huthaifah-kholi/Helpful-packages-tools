@@ -61,3 +61,7 @@ https://github.com/spatie/laravel-schemaless-attributes
 ###### trees in relational databases:
 
 https://github.com/lazychaser/laravel-nestedset
+
+##### Chatting:
+
+https://github.com/munafio/chatify
