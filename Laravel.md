@@ -65,3 +65,6 @@ https://github.com/lazychaser/laravel-nestedset
 ##### Chatting:
 
 https://github.com/munafio/chatify
+
+##### flage:
+https://github.com/MohmmedAshraf/blade-flags 
