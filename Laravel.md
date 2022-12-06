@@ -68,3 +68,7 @@ https://github.com/munafio/chatify
 
 ##### flage:
 https://github.com/MohmmedAshraf/blade-flags 
+
+##### Money:
+https://github.com/moneyphp/money
+https://github.com/brick/money
