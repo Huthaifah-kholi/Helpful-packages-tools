@@ -72,3 +72,6 @@ https://github.com/MohmmedAshraf/blade-flags
 ##### Money:
 https://github.com/moneyphp/money
 https://github.com/brick/money
+
+##### Migration command - extra power
+https://github.com/laracasts/Laravel-5-Generators-Extended#foreign-constraints
