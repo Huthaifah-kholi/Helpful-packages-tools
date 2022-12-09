@@ -75,3 +75,8 @@ https://github.com/brick/money
 
 ##### Migration command - extra power
 https://github.com/laracasts/Laravel-5-Generators-Extended#foreign-constraints
+
+##### UI 
+
+https://github.com/rappasoft/laravel-livewire-tables
+
